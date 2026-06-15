@@ -60,6 +60,14 @@ The objective is to analyze past sales trends and predict future sales using Mac
 * Machine Learning
 * Business Forecasting
 
+## Model Evaluation
+
+- Mean Absolute Error (MAE): 17,457.73
+- Mean Squared Error (MSE): 465,460,447.08
+
+### Interpretation
+The model successfully captured the overall sales trend and generated future forecasts. While prediction errors exist due to sales fluctuations, the model provides useful business insights for planning inventory, staffing, and future sales strategies.
+
 ## Author
 
 Ganisetti Iswarya
